@@ -17,6 +17,7 @@ Raw Data -> MySQL (ETL & EDA) -> Power BI (Dashboard)
 
 ## Repository Structure
 
+```text
 ├── Dashboards/               # PNG screenshots of all Power BI dashboard views
 ├── Excel/                    # Excel workbook with dynamic dashboard & sensitivity model (.xlsx)
 ├── Power Bi/                 # Interactive Power BI file (.pbix) and exported PDF report
