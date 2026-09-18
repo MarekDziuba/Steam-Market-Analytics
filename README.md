@@ -56,7 +56,7 @@ Raw Data -> MySQL (ETL & EDA) -> Power BI (Dashboard)
 ## How to Run
 
 ### Prerequisites
-* **MySQL Server & MySQL Workbench** (or any SQL client)
+* **MySQL Server & MySQL Workbench** (or any other SQL client)
 * **Power BI Desktop**
 
 1. **Download Raw Data:**
