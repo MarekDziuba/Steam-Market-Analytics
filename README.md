@@ -1,6 +1,6 @@
 # Steam Market Analytics: Finding the Game Dev "Sweet Spot"
 
-![Executive Summary](Dashboards/4.0_executive_summary.png)
+![Executive Summary](Dashboards/4.0_dashboard_summary.png)
 
 ## Project Overview
 Analyzes a historical Steam dataset (27,075 games up to May 2019) using SQL, Power BI, and Excel to guide new game developers toward data-driven decisions. The analysis identifies the market "Sweet Spot" pinpointing genres, play modes, and pricing strategies that offer high revenue potential with minimal risk.
