@@ -23,6 +23,7 @@ Raw Data -> MySQL (ETL & EDA) -> Power BI (Dashboard)
 ├── Power Bi/                 # Interactive Power BI file (.pbix) and exported PDF report
 ├── SQL/                      # SQL scripts for data cleaning, ETL, and EDA (.sql)
 └── README.md                 # Main project documentation
+```
 
 ## Project Architecture
 
